@@ -2,7 +2,7 @@
 ## Makefile generated for component 'UECU_Speedgoat_threshold'. 
 ## 
 ## Makefile     : UECU_Speedgoat_threshold.mk
-## Generated on : Thu Mar 24 12:57:00 2022
+## Generated on : Thu Apr 14 16:43:09 2022
 ## Final product: $(START_DIR)/UECU_Speedgoat_threshold_slrealtime_rtw/UECU_Speedgoat_threshold
 ## Product type : executable
 ## 
@@ -21,7 +21,7 @@ MAKEFILE                  = UECU_Speedgoat_threshold.mk
 MATLAB_ROOT               = C:/PROGRA~1/MATLAB/R2020b
 MATLAB_BIN                = C:/PROGRA~1/MATLAB/R2020b/bin
 MATLAB_ARCH_BIN           = $(MATLAB_BIN)/win64
-START_DIR                 = C:/Users/Graczyk/Desktop/JOHNWR~1/THRESH~1/MATLAB~1
+START_DIR                 = C:/Users/Graczyk/Desktop/ThresholdBasics
 SOLVER                    = 
 SOLVER_OBJ                = 
 CLASSIC_INTERFACE         = 0
